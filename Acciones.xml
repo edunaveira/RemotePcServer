@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<acciones>
+	<accion id="1">
+		<descripcion>F5</descripcion>
+		<tipo>Teclado</tipo>
+	</accion>
+	<accion id="10">
+		<descripcion>Win</descripcion>
+		<tipo>Teclado</tipo>
+	</accion>
+</acciones>
