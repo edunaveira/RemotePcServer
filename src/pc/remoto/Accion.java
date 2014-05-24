@@ -13,4 +13,5 @@ package pc.remoto;
 public class Accion {
     public String descripcion;
     public int codigo;
+
 }

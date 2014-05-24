@@ -23,7 +23,7 @@ import java.util.ArrayList;
  * @author enaveira
  */
 public class Configuracion {
-    
+
     public boolean autoinicio;
     public int sensibilidad;
     public ArrayList<Automatizador> listaAcciones;
@@ -31,7 +31,7 @@ public class Configuracion {
     private String RUTA_POR_DEFECTO="conf.dat";
    
     public Configuracion(){
-        //Estableceria la ruta por defecto...
+       
     }
     
     public Configuracion(String ruta){
