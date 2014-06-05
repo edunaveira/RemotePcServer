@@ -32,4 +32,18 @@ Estructura:
    - Ver ayuda
    - Sitio Web
    - Acerca de...
+   - 
+   
+Estructura2:
+ - Archivo
+   - Nueva plantilla
+   - Lista de plantillas
+   - Importar Plantillas
+   - Minimizar
+   - Pausar
+   - Conectar
+   - Minimizar
+   - Salir
+ - 
+   - 
 
